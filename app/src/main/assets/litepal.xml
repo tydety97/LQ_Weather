@@ -1,0 +1,12 @@
+<litepal>
+
+    <dbname value="lq_weather" />
+
+    <version value="1" />
+
+    <list>
+        <maping class="com.example.lq_weather.db.Province" />
+        <maping class="com.example.lq_weather.db.City" />
+        <maping class="com.example.lq_weather.db.Country" />
+    </list>
+</litepal>
